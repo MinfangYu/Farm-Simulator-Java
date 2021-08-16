@@ -12,7 +12,7 @@ Java version is 1.8.
 
 ## Overview of the Project
 ![image](https://github.com/MinfangYu/Farm-Simulator-Java/blob/master/scene.PNG)
-This is the main interface of the game
+(The main interface of the game)
 
 In this game, you are a farmer lost in an alien planet. You can choose how many days your game will last, set up your farmer and select your farm type.
 You have to earn enough money to buy a spaceship in a limited time to return home. You can buy crops and animals to manage on your farm. You will need to care for your crops and animals to make the biggest profit for your farm. 
